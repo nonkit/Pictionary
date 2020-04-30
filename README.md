@@ -3,7 +3,7 @@
 # Pictionary
 Pictionary for Small Basic is a project to show pictures about English keywords in Small Basic for non-native kids.
 
-![Pictionary](img/Pictionary1.1.0.png)
+![Pictionary](img/Pictionary1.3.0.png)
 
 ## Download
 Download a .zip file from [Releases](https://github.com/nonkitMac/Pictionary/releases).
@@ -18,7 +18,10 @@ Download a .zip file from [Releases](https://github.com/nonkitMac/Pictionary/rel
 - Small Basic 1.2 (dll included in .zip)
 - LitDev Extension 1.2 or later (included in .zip)
 
+## Documents
+- [Pictionary documents](https://nonkitmac.github.io/Pictionary/Documents)
+
 ## Reference
 - [Small Basic](https://smallbasic-publicwebsite.azurewebsites.net/) (official site)
-- [Pictionary Project for Small Basic](https://sway.com/gIdC8unQibvltFHq?ref=Link) (Sway)
-- [Pictionary for Small Basic](https://goo.gl/photos/vkJocXXbd1pyGMMk8) (Google Photo)
+- [Pictionary Project for Small Basic](https://nonkitmac.github.io/Pictionary/) (concept)
+- [Pictionary for Small Basic](https://nonkitmac.github.io/Pictionary/Gallery.html) (images)
