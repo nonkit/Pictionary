@@ -2,7 +2,7 @@
 
 This page shows how to create zip file for run time modules.
 # Zip Following Files
-Zip following files and name it Pictionary_vX.X.X.zip .
+Zip following files and name it Pictionary_vX.X.X.zip .  PowerShell script Build-Release.ps1 is for the package.
 * All exe files
 * SmallBasicLibrary.dll
 * LitDev.dll
@@ -17,7 +17,7 @@ Release the zip file to GitHub with following instructions.
 
 ____
 
-Copyright © 2017-2020 Nonki Takahashi.
+Copyright © 2017-2026 Nonki Takahashi.
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 

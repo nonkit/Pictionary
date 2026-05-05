@@ -1,10 +1,10 @@
 ' Pictionary
-' Version 1.9.0
-' Copyright © 2017-2022 Nonki Takahashi.  The MIT License.
-' Last update 2022-03-05
+' Version 1.9.1
+' Copyright © 2017-2026 Nonki Takahashi.  The MIT License.
+' Last update 2026-05-05
 ' Using LitDev Extension
 
-title = "Pictionary 1.9.0"
+title = "Pictionary 1.9.1"
 GraphicsWindow.Title = title
 Not = "False=True;True=False;"
 gw = 640
@@ -30,7 +30,7 @@ kw = kw + "Caption,Case,Ceiling,Chime,Chinese,Click,Clock,"
 kw = kw + "Color,Control,Copy,Cosine,Count,Cursor,"
 kw = kw + "Date,Degree,Delete,Desktop,Dictionary,Directory,"
 kw = kw + "Down,Download,Draw,"
-kw = kw + "Ellipse,End,English,Error,"
+kw = kw + "Ellipse,Else,End,English,Error,"
 kw = kw + "File,Fill,Flickr,Floor,Font,For,French,From,"
 kw = kw + "German,Go,Graphics,Gray,Height,Hide,Hour,"
 kw = kw + "If,Image,Italian,Italic,Japanese,Key,Korean,"
@@ -44,7 +44,7 @@ kw = kw + "Second,Shape,Shell,Show,Simplified,Sine,Size,Sound,"
 kw = kw + "Spanish,Square,Stack,Start,Step,Stop,Subroutine,"
 kw = kw + "Tangent,Tau,Text,Then,Timer,To,Traditional,"
 kw = kw + "Triangle,Turn,Turtle,Type,Up,Upper,"
-kw = kw + "Wall,Web,Week,Width,Window,Write,Xor,Zoom"
+kw = kw + "Wall,Web,Week,While,Width,Window,Write,Xor,Zoom"
 keywords = LDText.Split(kw, ",")
 n = Array.GetItemCount(keywords)
 GraphicsWindow.Title = title + " - " + n + " keywords"
