@@ -17,8 +17,8 @@
    [Step](https://github.com/nonkitMac/Pictionary/blob/master/img/Step.png)
    *[If](https://github.com/nonkitMac/Pictionary/blob/master/img/If.png)*
    *[Then](https://github.com/nonkitMac/Pictionary/blob/master/img/Then.png)*
-   *Else*
-   *While*
+   *[Else](https://github.com/nonkitMac/Pictionary/blob/master/img/Else.png)*
+   *[While](https://github.com/nonkitMac/Pictionary/blob/master/img/While.png)*
    **[Go](https://github.com/nonkitMac/Pictionary/blob/master/img/Go2.png)**
    *[To](https://github.com/nonkitMac/Pictionary/blob/master/img/To.png)*
    [Subroutine](https://github.com/nonkitMac/Pictionary/blob/master/img/Subroutine.png)
